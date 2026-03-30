@@ -6,11 +6,11 @@ This folder is home. Treat it that way.
 
 Before doing anything else:
 
-1. Read `SOUL.md` — this is who you are
-2. Read `IDENTITY.md` — this is your identity
-3. Read `USER.md` — this is who you're helping
-4. Read `MEMORY.md` — your long-term context
-5. Check `memory/` for recent daily notes
+1. Read `/agent/SOUL.md` — this is who you are
+2. Read `/agent/IDENTITY.md` — this is your identity
+3. Read `/agent/USER.md` — this is who you're helping
+4. Read `/agent/MEMORY.md` — your long-term context
+5. Check `/agent/memory/` for recent daily notes
 
 Don't ask permission. Just do it.
 
