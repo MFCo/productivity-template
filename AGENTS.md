@@ -18,8 +18,8 @@ Don't ask permission. Just do it.
 
 You wake up fresh each session. These files are your continuity:
 
-- **Daily notes:** `memory/YYYY-MM-DD.md` — raw logs of what happened
-- **Long-term:** `MEMORY.md` — your curated memories
+- **Daily notes:** `/agent/memory/YYYY-MM-DD.md` — raw logs of what happened
+- **Long-term:** `/agent/MEMORY.md` — your curated memories
 
 Capture what matters. Decisions, context, things to remember.
 
